@@ -1,4 +1,4 @@
-# Status Monitor App
+# Status Notifier App
 
 Status Monitor App is a React Native application built with Expo that displays a status circle in the center of the screen, with notifications for status changes.
 
